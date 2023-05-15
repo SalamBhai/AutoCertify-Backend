@@ -13,7 +13,7 @@ public static class ServiceCollectionExtension
     {
         var connectionString = configuration.GetConnectionString("AutoCert-ConnectionString");
         services.AddDbContext<ApplicationContext>(option => 
-        option.UseSqlServer(connectionString));
+        option.UseNpgsql(connectionString));
         return services;
     }
 

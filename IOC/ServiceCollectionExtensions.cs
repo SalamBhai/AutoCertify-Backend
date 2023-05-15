@@ -34,7 +34,7 @@ namespace IOC
         public static IServiceCollection AddDatabase(this IServiceCollection services, string connectionString)
         {
             services.AddDbContext<ApplicationContext>(options =>
-                options.UseSqlServer(connectionString));
+                options.UseNpgsql(connectionString));
             return services;
         }
     }

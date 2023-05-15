@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
@@ -18,8 +18,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC", "IOC\IOC.csproj", "{3E7D128F-10DB-4483-BDFF-1D66808E6D4C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{12EE5CB9-AD60-4CCA-B3EF-CBAD20B6FEA6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{4CAB7FB1-CCBF-4AA7-ACFB-2E07E9B5D885}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +52,10 @@ Global
 		{4CAB7FB1-CCBF-4AA7-ACFB-2E07E9B5D885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CAB7FB1-CCBF-4AA7-ACFB-2E07E9B5D885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CAB7FB1-CCBF-4AA7-ACFB-2E07E9B5D885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3E5F95-0C3D-40A3-BF4E-1211AFA370DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3E5F95-0C3D-40A3-BF4E-1211AFA370DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3E5F95-0C3D-40A3-BF4E-1211AFA370DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3E5F95-0C3D-40A3-BF4E-1211AFA370DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{12EE5CB9-AD60-4CCA-B3EF-CBAD20B6FEA6} = {78B1DC5B-F94D-4AC3-B75D-743DF24B22F2}

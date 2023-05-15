@@ -1,5 +1,4 @@
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\bin\Debug\net6.0\Persistence.deps.json
-C:\Users\user\Desktop\AutoCert-Backend\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\bin\Debug\net6.0\Persistence.dll
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\bin\Debug\net6.0\Persistence.pdb
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\bin\Debug\net6.0\Application.dll
@@ -15,5 +14,4 @@ C:\Users\user\Desktop\AutoCert-Backend\Persistence\obj\Debug\net6.0\Persistence.
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\obj\Debug\net6.0\Persistence.dll
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\obj\Debug\net6.0\Persistence.pdb
-C:\Users\user\Desktop\AutoCert-Backend\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
 C:\Users\user\Desktop\AutoCert-Backend\Persistence\obj\Debug\net6.0\ref\Persistence.dll
